@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHubUsersGraber</string>
+
+    <string name="notification_channel_id" translatable="false">my_notification_channel</string>
+    <string name="fcm_mess">FCM Message</string>
+    <string name="git_hub_users">GitHub users</string>
+    <string name="repo">Repositories</string>
+    <string name="user_does_not_have_repositories">%1$s does not have repositories</string>
+    <string name="user_list_is_empty">Local user list is empty\nPlease, restart app with enabled Internet</string>
+
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+</resources>
